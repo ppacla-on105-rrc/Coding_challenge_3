@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase-admin": "^13.6.1",
+    "joi": "^18.0.2"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
